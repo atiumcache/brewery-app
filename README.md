@@ -1,3 +1,5 @@
 A web app to experiment with Streamlit and APIs. 
 
-Search breweries by state and generate a map with all breweries plotted. 
+Users can search breweries by state and generate a map with all breweries plotted. \
+
+View the live prototype: https://breweries.streamlit.app/
